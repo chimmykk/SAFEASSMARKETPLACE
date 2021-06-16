@@ -1,5 +1,5 @@
 let network = 'Binance Smart Chain';
-let chain_id = '38';
+let chain_id = '97';
 
 // recommended block lists for adult collections on the marketplace
 // remove the switch below to display all offers from these collections in the public marketplace
